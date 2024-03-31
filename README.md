@@ -1,7 +1,7 @@
 # Huawei Cloud Resource
 
 ## ECS   
-### Virtual manchine   
+#### Virtual manchine   
    Region: เลือก AP-Bangkok  
    Billing Mode: 
    - Yearly/Montly: เหมือน Commit usage ของ cloud เจ้าอื่นๆ แต่ scale ย่อยได้ถึง Monyhly และ ยกเลิกกลางคันแล้วได้เงินคืน
