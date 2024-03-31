@@ -1,6 +1,6 @@
 # Huawei Cloud Resource
 
-## ECS   
+## Elastic Cloud Server (ECS)   
 ### Virtual manchine   
    #### Region
    ภูมิภาคทีต้องการให้ ECS resouce อยุ่ เลือกตาม target user เพื่อให้เกิด low latency และ access resouce ที่รวดเร็ว เช่นกลุ่มผู้ใช้งานอยู่ในไทยก็เลือกเป็น AP-Bangkok 
