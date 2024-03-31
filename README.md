@@ -1,4 +1,4 @@
-# Huawei Cloud Resource
+# Huawei Cloud | Everything as a Service
 
 ## Elastic Cloud Server (ECS)   
 ### Virtual manchine   
@@ -25,4 +25,9 @@
 ### Public IP
 
 
-DC-บางนา(AZ1) และ DR-อมตะ(AZ2)
+
+
+
+
+
+## Cloud Bastion Host (CBH)
